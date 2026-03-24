@@ -6,8 +6,14 @@
 
 ## 🚀 Sobre mim
 Sou estudante de Sistemas de Informação e estou no início da minha jornada na área de tecnologia. Atualmente, estou aprendendo **Java** e desenvolvendo minha base em programação, lógica e conceitos fundamentais de desenvolvimento.
-
 Também possuo experiência anterior com rotinas administrativas e área fiscal, o que contribuiu para meu desenvolvimento em organização, responsabilidade e atenção a detalhes.
+
+<div align="center"><br>
+  <a href="https://github.com/iudhicunhasantos">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=iudhicunhasantos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iudhicunhasantos&layout=compact&langs_count=10&theme=blue-green" />
+  </a>
+</div>
 
 ## 🛠️ Tecnologias que estou aprendendo
 - Java ☕
